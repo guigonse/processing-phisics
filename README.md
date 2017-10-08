@@ -1,2 +1,2 @@
-# processing-phisics
-Project for essays with phisics libraries in processing environ
+# processing-physics
+Project for essays with physics libraries in processing environ
